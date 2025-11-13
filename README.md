@@ -64,7 +64,7 @@ All SQL queries are included in the file:
 
 ## 📁 Files Included
 - `Sales_analysis_queries.sql` — Full set of 15 SQL queries  
-- *(Optional)* `sample_data.csv` — Source dataset  
+- * `sample_data.csv` — Source dataset  
 
 ## 🧠 Skills Demonstrated
 - SQL query writing  
